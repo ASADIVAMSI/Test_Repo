@@ -1,1 +1,1 @@
-//first line of the js file
+//first line of the js file ---add main function 
